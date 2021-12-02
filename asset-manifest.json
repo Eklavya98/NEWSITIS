@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NEWSITIS/static/css/main.bab0b925.chunk.css",
+    "main.js": "/NEWSITIS/static/js/main.59f63c2f.chunk.js",
+    "main.js.map": "/NEWSITIS/static/js/main.59f63c2f.chunk.js.map",
+    "runtime-main.js": "/NEWSITIS/static/js/runtime-main.a8d64bd1.js",
+    "runtime-main.js.map": "/NEWSITIS/static/js/runtime-main.a8d64bd1.js.map",
+    "static/js/2.45485f75.chunk.js": "/NEWSITIS/static/js/2.45485f75.chunk.js",
+    "static/js/2.45485f75.chunk.js.map": "/NEWSITIS/static/js/2.45485f75.chunk.js.map",
+    "static/js/3.d2fbbd94.chunk.js": "/NEWSITIS/static/js/3.d2fbbd94.chunk.js",
+    "static/js/3.d2fbbd94.chunk.js.map": "/NEWSITIS/static/js/3.d2fbbd94.chunk.js.map",
+    "index.html": "/NEWSITIS/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/NEWSITIS/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.45485f75.chunk.js.LICENSE.txt": "/NEWSITIS/static/js/2.45485f75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8d64bd1.js",
+    "static/js/2.45485f75.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.59f63c2f.chunk.js"
+  ]
+}
